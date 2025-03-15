@@ -97,7 +97,7 @@ table th {
 }
 
 .bgimage {
-    background-image: url('/Images/carousel-1.jpg');
+    background-image: url('Images/carousel-1.jpg');
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
